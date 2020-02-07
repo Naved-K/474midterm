@@ -197,7 +197,7 @@ const colors = [
       .attr('x', 170)
       .attr('y', 30)
       .style('font-size', '14pt')
-      .text("Pokmeon: Special Defense vs. Total Stats");
+      .text("Pokemon: Special Defense vs. Total Stats");
 
     mydropdown1.append('text')
       .attr('x', 30)
